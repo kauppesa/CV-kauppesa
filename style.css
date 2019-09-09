@@ -19,7 +19,7 @@ a
   }
 
   .data {
-    position: absolute; top: 155px; left:300px; width: 800px; height: 500px;
+    position: absolute; top: 155px; left:300px; width: 800px; height: 512px;
     padding: 25px;
     border-radius: 10px;
     background-color: #ebeeb0;
